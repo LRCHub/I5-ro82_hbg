@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Nagisa",
+  "base_artist": "imase",
+  "createdAt": "2025-12-21T06:29:59.044298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nagisa No Balcony",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/01_Nagisa_No_Balcony_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Down (Nagisa Rap) [feat. Shwabadi]",
+      "artist": "Rustage feat. Shwabadi",
+      "has_synced": true,
+      "path": "select/02_Down_(Nagisa_Rap)_[feat._Shwabadi]_Rustage_feat._Shwabadi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Down (Nagisa Rap) [feat. Shwabadi]",
+      "artist": "Rustage/Shwabadi",
+      "has_synced": true,
+      "path": "select/03_Down_(Nagisa_Rap)_[feat._Shwabadi]_Rustage_Shwabadi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nagisa",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/04_Nagisa_imase.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nagisa",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/05_Nagisa_imase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nagisa a la mode",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/06_Nagisa_a_la_mode_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nagisa Saiko!",
+      "artist": "NMB48",
+      "has_synced": true,
+      "path": "select/07_Nagisa_Saiko!_NMB48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Omoide no Nagisa",
+      "artist": "The Wild Ones",
+      "has_synced": true,
+      "path": "select/08_Omoide_no_Nagisa_The_Wild_Ones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dango Daikazoku (Nagisa, Tomoya",
+      "artist": "Sarah Leeann",
+      "has_synced": false,
+      "path": "select/09_Dango_Daikazoku_(Nagisa,_Tomoya_Sarah_Leeann.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nagisa",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/10_Nagisa_imase.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strike (Nagisa Shiota Rap)",
+      "artist": "Shwabadi",
+      "has_synced": false,
+      "path": "select/11_Strike_(Nagisa_Shiota_Rap)_Shwabadi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nagisa Ni Ikou",
+      "artist": "Bread And Butter",
+      "has_synced": false,
+      "path": "select/12_Nagisa_Ni_Ikou_Bread_And_Butter.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nagisa No Campari Soda",
+      "artist": "Akira Terao",
+      "has_synced": false,
+      "path": "select/13_Nagisa_No_Campari_Soda_Akira_Terao.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nagisa",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_Nagisa_imase.txt"
+    }
+  ]
+}
